@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: rgb(53, 40, 30);
+}
+body
+{
+    background-color: rgb(193, 179, 151);
+}
+#canvas
+{
+    cursor: pointer;
+
+} 
